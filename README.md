@@ -22,6 +22,7 @@ Linux and macOS:
 ```bash
 sudo git clone https://github.com/Mahrous-Gamal/Calculator.git
 ```
+Windows:
 
 ```bash
 git clone https://github.com/Mahrous-Gamal/Calculator.git
